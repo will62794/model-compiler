@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(java:*)",
+      "Bash(make:*)",
+      "Bash(./german_cache:*)",
+      "Bash(./german_cache_sim:*)",
+      "Bash(./flexible_paxos:*)",
+      "Bash(./flexible_paxos_sim:*)",
+      "Bash(./snapshot_isolation:*)",
+      "Bash(ls:*)",
+      "Bash(./twophase:*)",
+      "Bash(chmod:*)",
+      "Bash(./AbstractDynamicRaft:*)",
+      "Bash(./optimization_explorer:*)"
+    ]
+  }
+}

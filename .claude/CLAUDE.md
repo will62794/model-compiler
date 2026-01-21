@@ -1,0 +1,2 @@
+- Always pass the `-noGenerateSpecTE` argument when needed when running TLC with the 'tla2tools-checkall' binary and command line arguments.
+- The `timeout` command doesn't work on macOS.
