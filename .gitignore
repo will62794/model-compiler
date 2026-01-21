@@ -3,3 +3,8 @@ Makefile
 *_report*.md
 *.cpp
 validate.py
+benchmark.py
+states_tlc*
+states_cpp*
+cpp_states*
+tlc_states*
