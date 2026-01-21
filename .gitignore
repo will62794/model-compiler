@@ -1,0 +1,5 @@
+states/
+Makefile
+*_report*.md
+*.cpp
+validate.py
